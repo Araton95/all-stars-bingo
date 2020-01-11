@@ -1,0 +1,67 @@
+.mark-panel {  
+  padding: 10px;
+  
+  .mark-panel-content {
+    min-height: 86px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 3px 0 rgba(0,0,0,0.1);
+    padding: 10px;
+
+    .teamImg {
+      width: 50px;
+    }
+
+    .quarter-part {
+      width: 180px;
+      margin: 0 20px;
+
+      .text {
+        font-size: 10px;
+        line-height: 18px;
+        text-align: center;
+      }
+
+      .mark-board {
+        position: relative;
+
+        .logo-part {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
+          .logoImg {
+            width: 66px;
+          }
+        }
+  
+        .scores-part {
+          width: calc(100% - 40px);
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          border: 1px solid #EBEAEA;
+          border-radius: 8px;
+          padding: 5px 20px;
+          position: absolute;
+          top: 7px;
+            
+          .score {
+            color: #CE0F41;
+            font-size: 18px;
+            letter-spacing: 1.35px;
+            line-height: 23px;
+  
+            &:last-child {
+              color: #69B3E7;
+            }
+          }
+        }
+      }
+    }
+  }
+}

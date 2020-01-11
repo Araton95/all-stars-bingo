@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="123px" viewBox="0 0 125 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>img-help-01</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-3" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="6.63741818" y="3.99204545">FIRST</tspan>
+            <tspan x="4.87901818" y="8.89204545">POINTS</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-7" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="2.10981818" y="3.99204545">PTS + FOAL</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-11" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="1.74715909" y="3.99204545">CROSSOVER</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="132.5%" height="161.2%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-15" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="6.63741818" y="3.99204545">FIRST</tspan>
+            <tspan x="4.87901818" y="8.89204545">POINTS</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-19" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="2.80841818" y="3.99204545">INTERCEPT</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <rect id="path-23" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <rect id="path-25" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <rect id="path-27" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <rect id="path-29" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <rect id="path-31" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-33" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="6.63741818" y="3.99204545">FIRST</tspan>
+            <tspan x="4.87901818" y="8.89204545">POINTS</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-35" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-37" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="5.49501818" y="3.99204545">BLOCK</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-39" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-41" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="5.92061818" y="3.99204545">DUNK</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-43" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-45" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="6.63741818" y="3.99204545">FIRST</tspan>
+            <tspan x="4.87901818" y="8.89204545">POINTS</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-47" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-49" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="2.89241818" y="3.99204545">WINNING </tspan>
+            <tspan x="4.89581818" y="8.89204545">BASKET</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-51" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-53" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="6.22861818" y="3.99204545">STEAL</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-54">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-55" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-57" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="7.18901818" y="3.99204545">FREE </tspan>
+            <tspan x="2.36041818" y="8.89204545">THROW +2</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-59" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-61" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="1.74715909" y="3.99204545">CROSSOVER</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="132.5%" height="161.2%" filterUnits="objectBoundingBox" id="filter-62">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-63" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-65" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="2.56481818" y="3.99204545">3 POINTER</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-66">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-67" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-69" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="6.63741818" y="3.99204545">FIRST</tspan>
+            <tspan x="4.87901818" y="8.89204545">POINTS</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-70">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-71" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-73" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="2.18261818" y="3.99204545">ALLEY-OOP</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-74">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-75" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-77" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="2.89241818" y="3.99204545">WINNING </tspan>
+            <tspan x="4.89581818" y="8.89204545">BASKET</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-78">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-79" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-81" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="6.22861818" y="3.99204545">STEAL</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-82">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-83" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-85" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="2.10981818" y="3.99204545">PTS + FOAL</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-86">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-87" x="0" y="0" width="22.3636364" height="22.3636364" rx="2.8"></rect>
+        <text id="text-89" font-family="Futura-Bold, Futura" font-size="2.8" font-weight="bold" line-spacing="4.9" fill="#FFFFFF">
+            <tspan x="2.80841818" y="3.99204545">INTERCEPT</tspan>
+        </text>
+        <filter x="-15.9%" y="-30.6%" width="131.8%" height="161.2%" filterUnits="objectBoundingBox" id="filter-90">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.440726902   0 0 0 0 0.0172326906   0 0 0 0 0.12809505  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="allstars-6-help" transform="translate(-129.000000, -510.000000)">
+            <g id="grid" transform="translate(130.000000, 510.000000)">
+                <g id="player-card-/-2">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-2)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">0</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-4)" xlink:href="#text-3"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(25.159091, 0.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-6)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">88</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-6)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-8)" xlink:href="#text-7"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-7"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(50.318182, 0.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-10)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">35</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-10)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-12)" xlink:href="#text-11"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-11"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(75.477273, 0.000000)">
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-14)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">40</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-14)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-16)" xlink:href="#text-15"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-15"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(100.636364, 0.000000)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-18)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">88</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-18)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-20)" xlink:href="#text-19"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-19"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-4" transform="translate(0.000000, 25.159091)">
+                    <mask id="mask-22" fill="white">
+                        <use xlink:href="#path-21"></use>
+                    </mask>
+                    <use id="Rectangle" stroke="#F3F3F3" stroke-width="0.5" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" xlink:href="#path-21"></use>
+                    <g id="Artboard" stroke-width="1" fill-rule="evenodd" mask="url(#mask-22)">
+                        <g transform="translate(4.933155, 4.933155)" id="18679">
+                            <g>
+                                <path d="M12.3902695,6.25253395 C12.3902695,9.65014775 9.63599148,12.4044257 6.23859888,12.4044257 C2.84098509,12.4044257 0.0869283044,9.65014775 0.0869283044,6.25253395 C0.0869283044,2.85514136 2.84098509,0.100863376 6.23859888,0.100863376 C9.63599148,0.100863376 12.3902695,2.85514136 12.3902695,6.25253395" id="Fill-1" fill="#CE0F41"></path>
+                                <path d="M12.1915288,6.19402877 C12.1915288,9.40429327 9.52628044,12.0067232 6.23859888,12.0067232 C2.95080673,12.0067232 0.28566897,9.40429327 0.28566897,6.19402877 C0.28566897,2.98387488 2.95080673,0.381444939 6.23859888,0.381444939 C9.52628044,0.381444939 12.1915288,2.98387488 12.1915288,6.19402877" id="Fill-2" fill="#CE0F41"></path>
+                                <path d="M7.62513852,11.8482394 L7.62513852,11.8482394 C7.62447494,11.8460275 7.62436435,11.8434838 7.62469613,11.8403871 C7.91700085,9.58655516 7.2722273,7.45802825 6.75463892,5.29709678 C6.51962283,4.31600137 6.16649042,3.35027878 5.66748214,2.46916199 C5.2568399,2.59966504 4.85471355,2.75671109 4.4681812,2.94715707 C4.40558398,2.97812389 4.34530926,3.01174502 4.2837074,3.04370721 C4.31378946,3.2496366 4.30383583,3.45700374 4.24510946,3.63926563 C3.85238375,4.85991155 2.97126695,5.84753211 2.48696791,7.02969069 C2.17033212,7.80297657 2.02069599,8.53722214 2.08583692,9.37056154 C2.12520903,9.87189234 2.21335389,10.1576719 2.49393545,10.5471903 C2.5744492,10.6587815 2.65175567,10.7606402 2.71490587,10.8795307 C2.64722124,10.8308686 2.58064256,10.7809899 2.51516985,10.7296734 C2.38787407,10.5781572 2.25106706,10.4343826 2.15473811,10.25942 C1.99039274,9.96070077 1.96882656,9.45262363 1.9571034,9.11961966 C1.92801671,8.27798557 2.1127117,7.50215598 2.44704283,6.73097142 C2.83689305,5.83215929 3.37151318,4.96818485 3.71192707,4.05223037 C3.80549113,3.80062491 3.84984005,3.53685391 3.84375728,3.28956169 C3.01318276,3.78591567 2.29386764,4.41432104 1.74564422,5.24268364 C1.41673229,5.73992239 1.11557991,6.26834916 0.889853864,6.82165998 C0.869504235,6.87142809 0.851919502,6.92086442 0.836436089,6.97019015 C0.802040793,7.07979059 0.778262695,7.18839567 0.758687237,7.29644778 C0.711684019,7.55535256 0.688901282,7.81105007 0.602304766,8.06962307 C0.5961114,8.05170654 0.589918035,8.03345824 0.58372467,8.01543112 C0.649639771,7.6624093 0.626857035,7.31900932 0.720974067,6.95702925 C0.736236288,6.89830287 0.754595192,6.83902352 0.776824949,6.77919119 C0.797838152,6.72289792 0.819183143,6.66671525 0.840970517,6.61075377 C1.04358204,6.0904005 1.28368553,5.58763196 1.59744584,5.12279779 C2.18614732,4.25097104 2.91685382,3.52712148 3.81389641,3.00831655 C3.71988997,2.55144527 3.41387137,2.20660754 2.85890161,2.20660754 C2.76224088,2.20660754 2.65783844,2.21711415 2.54591548,2.23923331 C2.53872675,2.24067105 2.53164862,2.2421088 2.5243493,2.24365714 C2.37216947,2.27550873 2.15252619,2.33036425 1.94150939,2.40966145 C1.80580834,2.46053552 1.67364635,2.5215844 1.56526246,2.59302929 C1.64500203,2.49459903 1.72783829,2.39871246 1.81377124,2.30559079 C1.93653258,2.23215517 2.07289721,2.17000033 2.21445985,2.11890507 C2.41917268,2.04502707 2.63472391,1.99426359 2.83634007,1.96606166 C2.96297227,1.94836633 3.08396408,1.93962927 3.19334333,1.93962927 C3.21457773,1.93962927 3.23548034,1.93996105 3.25571937,1.94062463 C3.73858066,1.95632923 4.08175945,2.34175562 4.2256446,2.79121698 C4.28392859,2.76312564 4.34011126,2.73226941 4.3997224,2.70594761 C4.78183091,2.53695722 5.16637253,2.39439922 5.55412143,2.27318622 C5.41399655,2.06404955 4.84000431,1.3083484 4.47282623,0.945925938 C4.43721438,0.910645876 4.40359325,0.879236667 4.37240523,0.85225129 C4.29753187,0.787663338 4.23725716,0.749286593 4.19987577,0.749286593 C4.19036454,0.749286593 4.18240164,0.751719701 4.17598708,0.756917704 L4.1649275,0.744309782 C4.16514869,0.74408859 4.16536988,0.743867399 4.16559107,0.743646207 C4.19257645,0.73380318 4.21967242,0.724181345 4.24687899,0.714780701 C4.30007558,0.75780247 4.3521662,0.800160664 4.40326146,0.842076475 C4.4393157,0.871716152 4.47492755,0.901024041 4.50987582,0.930110738 C5.00324372,1.34019999 5.40083564,1.71511978 5.74379324,2.21490223 C5.93103194,2.16071028 6.11871303,2.11038919 6.30816365,2.068031 C6.25375051,1.93044981 6.23450684,1.78180905 6.26890213,1.62266168 C6.3779496,1.11646467 6.63032923,0.710135677 7.05745024,0.435968672 C7.07238067,0.437959396 7.08675813,0.439950121 7.10157797,0.442051441 C6.64868814,0.828915574 6.35395031,1.47988249 6.60456041,2.01018939 C7.13663684,1.9096578 7.67888808,1.8543599 8.23794988,1.8543599 C8.26194917,1.8543599 8.28594846,1.8543599 8.30994775,1.85458109 C8.96401136,1.86022148 9.64185306,1.85590824 10.2379645,2.16247982 C10.4040794,2.24785978 10.5922028,2.32870531 10.7701515,2.42448128 C10.8943506,2.56681809 11.0116927,2.71501647 11.1217356,2.86863404 C10.3383855,2.21700355 9.21395788,2.06460253 8.22501017,2.06460253 C8.14858847,2.06460253 8.07283034,2.06548729 7.99817817,2.06714623 C7.57072538,2.07687866 7.14459973,2.1233289 6.72378269,2.20019299 C6.80020439,2.29674313 6.89653334,2.38754228 7.02117481,2.46805603 C7.40029724,2.71368932 7.84334404,2.88367507 8.27322995,3.0201503 C8.91369027,3.22386778 9.62150343,3.41674686 10.192399,3.78270839 C11.2273546,4.44584085 12.1189779,5.60532729 12.1097599,6.8737506 C12.1095773,6.89675453 12.0875687,6.91367569 12.0689886,6.91367569 C12.0563807,6.91367569 12.0453211,6.90593398 12.0437728,6.8869115 C11.9492134,5.66493843 11.0517284,4.28016833 9.89069363,3.79067129 C9.03910591,3.4316773 8.06475685,3.36985424 7.24612669,2.93786702 C6.96720406,2.7907746 6.6152882,2.56073532 6.41356145,2.26411736 C6.2301936,2.30503781 6.04848469,2.3529258 5.86821353,2.4054588 C5.96432128,2.56029293 6.05633699,2.7272926 6.14492423,2.91088164 C6.59283725,3.83800629 6.83714339,4.77530576 7.10998325,5.76193095 C7.64360802,7.69127481 8.06188136,9.84612352 7.65588415,11.8409401 C7.64559874,11.8434838 7.63542393,11.8458063 7.62513852,11.8482394" id="Fill-7" fill="#E5EAF1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-4" transform="translate(25.159091, 25.159091)">
+                    <mask id="mask-24" fill="white">
+                        <use xlink:href="#path-23"></use>
+                    </mask>
+                    <use id="Rectangle" stroke="#F3F3F3" stroke-width="0.5" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" xlink:href="#path-23"></use>
+                    <g id="Artboard" stroke-width="1" fill-rule="evenodd" mask="url(#mask-24)">
+                        <g transform="translate(4.933155, 4.933155)" id="18679">
+                            <g>
+                                <path d="M12.3902695,6.25253395 C12.3902695,9.65014775 9.63599148,12.4044257 6.23859888,12.4044257 C2.84098509,12.4044257 0.0869283044,9.65014775 0.0869283044,6.25253395 C0.0869283044,2.85514136 2.84098509,0.100863376 6.23859888,0.100863376 C9.63599148,0.100863376 12.3902695,2.85514136 12.3902695,6.25253395" id="Fill-1" fill="#CE0F41"></path>
+                                <path d="M12.1915288,6.19402877 C12.1915288,9.40429327 9.52628044,12.0067232 6.23859888,12.0067232 C2.95080673,12.0067232 0.28566897,9.40429327 0.28566897,6.19402877 C0.28566897,2.98387488 2.95080673,0.381444939 6.23859888,0.381444939 C9.52628044,0.381444939 12.1915288,2.98387488 12.1915288,6.19402877" id="Fill-2" fill="#CE0F41"></path>
+                                <path d="M7.62513852,11.8482394 L7.62513852,11.8482394 C7.62447494,11.8460275 7.62436435,11.8434838 7.62469613,11.8403871 C7.91700085,9.58655516 7.2722273,7.45802825 6.75463892,5.29709678 C6.51962283,4.31600137 6.16649042,3.35027878 5.66748214,2.46916199 C5.2568399,2.59966504 4.85471355,2.75671109 4.4681812,2.94715707 C4.40558398,2.97812389 4.34530926,3.01174502 4.2837074,3.04370721 C4.31378946,3.2496366 4.30383583,3.45700374 4.24510946,3.63926563 C3.85238375,4.85991155 2.97126695,5.84753211 2.48696791,7.02969069 C2.17033212,7.80297657 2.02069599,8.53722214 2.08583692,9.37056154 C2.12520903,9.87189234 2.21335389,10.1576719 2.49393545,10.5471903 C2.5744492,10.6587815 2.65175567,10.7606402 2.71490587,10.8795307 C2.64722124,10.8308686 2.58064256,10.7809899 2.51516985,10.7296734 C2.38787407,10.5781572 2.25106706,10.4343826 2.15473811,10.25942 C1.99039274,9.96070077 1.96882656,9.45262363 1.9571034,9.11961966 C1.92801671,8.27798557 2.1127117,7.50215598 2.44704283,6.73097142 C2.83689305,5.83215929 3.37151318,4.96818485 3.71192707,4.05223037 C3.80549113,3.80062491 3.84984005,3.53685391 3.84375728,3.28956169 C3.01318276,3.78591567 2.29386764,4.41432104 1.74564422,5.24268364 C1.41673229,5.73992239 1.11557991,6.26834916 0.889853864,6.82165998 C0.869504235,6.87142809 0.851919502,6.92086442 0.836436089,6.97019015 C0.802040793,7.07979059 0.778262695,7.18839567 0.758687237,7.29644778 C0.711684019,7.55535256 0.688901282,7.81105007 0.602304766,8.06962307 C0.5961114,8.05170654 0.589918035,8.03345824 0.58372467,8.01543112 C0.649639771,7.6624093 0.626857035,7.31900932 0.720974067,6.95702925 C0.736236288,6.89830287 0.754595192,6.83902352 0.776824949,6.77919119 C0.797838152,6.72289792 0.819183143,6.66671525 0.840970517,6.61075377 C1.04358204,6.0904005 1.28368553,5.58763196 1.59744584,5.12279779 C2.18614732,4.25097104 2.91685382,3.52712148 3.81389641,3.00831655 C3.71988997,2.55144527 3.41387137,2.20660754 2.85890161,2.20660754 C2.76224088,2.20660754 2.65783844,2.21711415 2.54591548,2.23923331 C2.53872675,2.24067105 2.53164862,2.2421088 2.5243493,2.24365714 C2.37216947,2.27550873 2.15252619,2.33036425 1.94150939,2.40966145 C1.80580834,2.46053552 1.67364635,2.5215844 1.56526246,2.59302929 C1.64500203,2.49459903 1.72783829,2.39871246 1.81377124,2.30559079 C1.93653258,2.23215517 2.07289721,2.17000033 2.21445985,2.11890507 C2.41917268,2.04502707 2.63472391,1.99426359 2.83634007,1.96606166 C2.96297227,1.94836633 3.08396408,1.93962927 3.19334333,1.93962927 C3.21457773,1.93962927 3.23548034,1.93996105 3.25571937,1.94062463 C3.73858066,1.95632923 4.08175945,2.34175562 4.2256446,2.79121698 C4.28392859,2.76312564 4.34011126,2.73226941 4.3997224,2.70594761 C4.78183091,2.53695722 5.16637253,2.39439922 5.55412143,2.27318622 C5.41399655,2.06404955 4.84000431,1.3083484 4.47282623,0.945925938 C4.43721438,0.910645876 4.40359325,0.879236667 4.37240523,0.85225129 C4.29753187,0.787663338 4.23725716,0.749286593 4.19987577,0.749286593 C4.19036454,0.749286593 4.18240164,0.751719701 4.17598708,0.756917704 L4.1649275,0.744309782 C4.16514869,0.74408859 4.16536988,0.743867399 4.16559107,0.743646207 C4.19257645,0.73380318 4.21967242,0.724181345 4.24687899,0.714780701 C4.30007558,0.75780247 4.3521662,0.800160664 4.40326146,0.842076475 C4.4393157,0.871716152 4.47492755,0.901024041 4.50987582,0.930110738 C5.00324372,1.34019999 5.40083564,1.71511978 5.74379324,2.21490223 C5.93103194,2.16071028 6.11871303,2.11038919 6.30816365,2.068031 C6.25375051,1.93044981 6.23450684,1.78180905 6.26890213,1.62266168 C6.3779496,1.11646467 6.63032923,0.710135677 7.05745024,0.435968672 C7.07238067,0.437959396 7.08675813,0.439950121 7.10157797,0.442051441 C6.64868814,0.828915574 6.35395031,1.47988249 6.60456041,2.01018939 C7.13663684,1.9096578 7.67888808,1.8543599 8.23794988,1.8543599 C8.26194917,1.8543599 8.28594846,1.8543599 8.30994775,1.85458109 C8.96401136,1.86022148 9.64185306,1.85590824 10.2379645,2.16247982 C10.4040794,2.24785978 10.5922028,2.32870531 10.7701515,2.42448128 C10.8943506,2.56681809 11.0116927,2.71501647 11.1217356,2.86863404 C10.3383855,2.21700355 9.21395788,2.06460253 8.22501017,2.06460253 C8.14858847,2.06460253 8.07283034,2.06548729 7.99817817,2.06714623 C7.57072538,2.07687866 7.14459973,2.1233289 6.72378269,2.20019299 C6.80020439,2.29674313 6.89653334,2.38754228 7.02117481,2.46805603 C7.40029724,2.71368932 7.84334404,2.88367507 8.27322995,3.0201503 C8.91369027,3.22386778 9.62150343,3.41674686 10.192399,3.78270839 C11.2273546,4.44584085 12.1189779,5.60532729 12.1097599,6.8737506 C12.1095773,6.89675453 12.0875687,6.91367569 12.0689886,6.91367569 C12.0563807,6.91367569 12.0453211,6.90593398 12.0437728,6.8869115 C11.9492134,5.66493843 11.0517284,4.28016833 9.89069363,3.79067129 C9.03910591,3.4316773 8.06475685,3.36985424 7.24612669,2.93786702 C6.96720406,2.7907746 6.6152882,2.56073532 6.41356145,2.26411736 C6.2301936,2.30503781 6.04848469,2.3529258 5.86821353,2.4054588 C5.96432128,2.56029293 6.05633699,2.7272926 6.14492423,2.91088164 C6.59283725,3.83800629 6.83714339,4.77530576 7.10998325,5.76193095 C7.64360802,7.69127481 8.06188136,9.84612352 7.65588415,11.8409401 C7.64559874,11.8434838 7.63542393,11.8458063 7.62513852,11.8482394" id="Fill-7" fill="#E5EAF1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-4" transform="translate(50.318182, 25.159091)">
+                    <mask id="mask-26" fill="white">
+                        <use xlink:href="#path-25"></use>
+                    </mask>
+                    <use id="Rectangle" stroke="#F3F3F3" stroke-width="0.5" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" xlink:href="#path-25"></use>
+                    <g id="Artboard" stroke-width="1" fill-rule="evenodd" mask="url(#mask-26)">
+                        <g transform="translate(4.933155, 4.933155)" id="18679">
+                            <g>
+                                <path d="M12.3902695,6.25253395 C12.3902695,9.65014775 9.63599148,12.4044257 6.23859888,12.4044257 C2.84098509,12.4044257 0.0869283044,9.65014775 0.0869283044,6.25253395 C0.0869283044,2.85514136 2.84098509,0.100863376 6.23859888,0.100863376 C9.63599148,0.100863376 12.3902695,2.85514136 12.3902695,6.25253395" id="Fill-1" fill="#CE0F41"></path>
+                                <path d="M12.1915288,6.19402877 C12.1915288,9.40429327 9.52628044,12.0067232 6.23859888,12.0067232 C2.95080673,12.0067232 0.28566897,9.40429327 0.28566897,6.19402877 C0.28566897,2.98387488 2.95080673,0.381444939 6.23859888,0.381444939 C9.52628044,0.381444939 12.1915288,2.98387488 12.1915288,6.19402877" id="Fill-2" fill="#CE0F41"></path>
+                                <path d="M7.62513852,11.8482394 L7.62513852,11.8482394 C7.62447494,11.8460275 7.62436435,11.8434838 7.62469613,11.8403871 C7.91700085,9.58655516 7.2722273,7.45802825 6.75463892,5.29709678 C6.51962283,4.31600137 6.16649042,3.35027878 5.66748214,2.46916199 C5.2568399,2.59966504 4.85471355,2.75671109 4.4681812,2.94715707 C4.40558398,2.97812389 4.34530926,3.01174502 4.2837074,3.04370721 C4.31378946,3.2496366 4.30383583,3.45700374 4.24510946,3.63926563 C3.85238375,4.85991155 2.97126695,5.84753211 2.48696791,7.02969069 C2.17033212,7.80297657 2.02069599,8.53722214 2.08583692,9.37056154 C2.12520903,9.87189234 2.21335389,10.1576719 2.49393545,10.5471903 C2.5744492,10.6587815 2.65175567,10.7606402 2.71490587,10.8795307 C2.64722124,10.8308686 2.58064256,10.7809899 2.51516985,10.7296734 C2.38787407,10.5781572 2.25106706,10.4343826 2.15473811,10.25942 C1.99039274,9.96070077 1.96882656,9.45262363 1.9571034,9.11961966 C1.92801671,8.27798557 2.1127117,7.50215598 2.44704283,6.73097142 C2.83689305,5.83215929 3.37151318,4.96818485 3.71192707,4.05223037 C3.80549113,3.80062491 3.84984005,3.53685391 3.84375728,3.28956169 C3.01318276,3.78591567 2.29386764,4.41432104 1.74564422,5.24268364 C1.41673229,5.73992239 1.11557991,6.26834916 0.889853864,6.82165998 C0.869504235,6.87142809 0.851919502,6.92086442 0.836436089,6.97019015 C0.802040793,7.07979059 0.778262695,7.18839567 0.758687237,7.29644778 C0.711684019,7.55535256 0.688901282,7.81105007 0.602304766,8.06962307 C0.5961114,8.05170654 0.589918035,8.03345824 0.58372467,8.01543112 C0.649639771,7.6624093 0.626857035,7.31900932 0.720974067,6.95702925 C0.736236288,6.89830287 0.754595192,6.83902352 0.776824949,6.77919119 C0.797838152,6.72289792 0.819183143,6.66671525 0.840970517,6.61075377 C1.04358204,6.0904005 1.28368553,5.58763196 1.59744584,5.12279779 C2.18614732,4.25097104 2.91685382,3.52712148 3.81389641,3.00831655 C3.71988997,2.55144527 3.41387137,2.20660754 2.85890161,2.20660754 C2.76224088,2.20660754 2.65783844,2.21711415 2.54591548,2.23923331 C2.53872675,2.24067105 2.53164862,2.2421088 2.5243493,2.24365714 C2.37216947,2.27550873 2.15252619,2.33036425 1.94150939,2.40966145 C1.80580834,2.46053552 1.67364635,2.5215844 1.56526246,2.59302929 C1.64500203,2.49459903 1.72783829,2.39871246 1.81377124,2.30559079 C1.93653258,2.23215517 2.07289721,2.17000033 2.21445985,2.11890507 C2.41917268,2.04502707 2.63472391,1.99426359 2.83634007,1.96606166 C2.96297227,1.94836633 3.08396408,1.93962927 3.19334333,1.93962927 C3.21457773,1.93962927 3.23548034,1.93996105 3.25571937,1.94062463 C3.73858066,1.95632923 4.08175945,2.34175562 4.2256446,2.79121698 C4.28392859,2.76312564 4.34011126,2.73226941 4.3997224,2.70594761 C4.78183091,2.53695722 5.16637253,2.39439922 5.55412143,2.27318622 C5.41399655,2.06404955 4.84000431,1.3083484 4.47282623,0.945925938 C4.43721438,0.910645876 4.40359325,0.879236667 4.37240523,0.85225129 C4.29753187,0.787663338 4.23725716,0.749286593 4.19987577,0.749286593 C4.19036454,0.749286593 4.18240164,0.751719701 4.17598708,0.756917704 L4.1649275,0.744309782 C4.16514869,0.74408859 4.16536988,0.743867399 4.16559107,0.743646207 C4.19257645,0.73380318 4.21967242,0.724181345 4.24687899,0.714780701 C4.30007558,0.75780247 4.3521662,0.800160664 4.40326146,0.842076475 C4.4393157,0.871716152 4.47492755,0.901024041 4.50987582,0.930110738 C5.00324372,1.34019999 5.40083564,1.71511978 5.74379324,2.21490223 C5.93103194,2.16071028 6.11871303,2.11038919 6.30816365,2.068031 C6.25375051,1.93044981 6.23450684,1.78180905 6.26890213,1.62266168 C6.3779496,1.11646467 6.63032923,0.710135677 7.05745024,0.435968672 C7.07238067,0.437959396 7.08675813,0.439950121 7.10157797,0.442051441 C6.64868814,0.828915574 6.35395031,1.47988249 6.60456041,2.01018939 C7.13663684,1.9096578 7.67888808,1.8543599 8.23794988,1.8543599 C8.26194917,1.8543599 8.28594846,1.8543599 8.30994775,1.85458109 C8.96401136,1.86022148 9.64185306,1.85590824 10.2379645,2.16247982 C10.4040794,2.24785978 10.5922028,2.32870531 10.7701515,2.42448128 C10.8943506,2.56681809 11.0116927,2.71501647 11.1217356,2.86863404 C10.3383855,2.21700355 9.21395788,2.06460253 8.22501017,2.06460253 C8.14858847,2.06460253 8.07283034,2.06548729 7.99817817,2.06714623 C7.57072538,2.07687866 7.14459973,2.1233289 6.72378269,2.20019299 C6.80020439,2.29674313 6.89653334,2.38754228 7.02117481,2.46805603 C7.40029724,2.71368932 7.84334404,2.88367507 8.27322995,3.0201503 C8.91369027,3.22386778 9.62150343,3.41674686 10.192399,3.78270839 C11.2273546,4.44584085 12.1189779,5.60532729 12.1097599,6.8737506 C12.1095773,6.89675453 12.0875687,6.91367569 12.0689886,6.91367569 C12.0563807,6.91367569 12.0453211,6.90593398 12.0437728,6.8869115 C11.9492134,5.66493843 11.0517284,4.28016833 9.89069363,3.79067129 C9.03910591,3.4316773 8.06475685,3.36985424 7.24612669,2.93786702 C6.96720406,2.7907746 6.6152882,2.56073532 6.41356145,2.26411736 C6.2301936,2.30503781 6.04848469,2.3529258 5.86821353,2.4054588 C5.96432128,2.56029293 6.05633699,2.7272926 6.14492423,2.91088164 C6.59283725,3.83800629 6.83714339,4.77530576 7.10998325,5.76193095 C7.64360802,7.69127481 8.06188136,9.84612352 7.65588415,11.8409401 C7.64559874,11.8434838 7.63542393,11.8458063 7.62513852,11.8482394" id="Fill-7" fill="#E5EAF1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-4" transform="translate(75.477273, 25.159091)">
+                    <mask id="mask-28" fill="white">
+                        <use xlink:href="#path-27"></use>
+                    </mask>
+                    <use id="Rectangle" stroke="#F3F3F3" stroke-width="0.5" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" xlink:href="#path-27"></use>
+                    <g id="Artboard" stroke-width="1" fill-rule="evenodd" mask="url(#mask-28)">
+                        <g transform="translate(4.933155, 4.933155)" id="18679">
+                            <g>
+                                <path d="M12.3902695,6.25253395 C12.3902695,9.65014775 9.63599148,12.4044257 6.23859888,12.4044257 C2.84098509,12.4044257 0.0869283044,9.65014775 0.0869283044,6.25253395 C0.0869283044,2.85514136 2.84098509,0.100863376 6.23859888,0.100863376 C9.63599148,0.100863376 12.3902695,2.85514136 12.3902695,6.25253395" id="Fill-1" fill="#CE0F41"></path>
+                                <path d="M12.1915288,6.19402877 C12.1915288,9.40429327 9.52628044,12.0067232 6.23859888,12.0067232 C2.95080673,12.0067232 0.28566897,9.40429327 0.28566897,6.19402877 C0.28566897,2.98387488 2.95080673,0.381444939 6.23859888,0.381444939 C9.52628044,0.381444939 12.1915288,2.98387488 12.1915288,6.19402877" id="Fill-2" fill="#CE0F41"></path>
+                                <path d="M7.62513852,11.8482394 L7.62513852,11.8482394 C7.62447494,11.8460275 7.62436435,11.8434838 7.62469613,11.8403871 C7.91700085,9.58655516 7.2722273,7.45802825 6.75463892,5.29709678 C6.51962283,4.31600137 6.16649042,3.35027878 5.66748214,2.46916199 C5.2568399,2.59966504 4.85471355,2.75671109 4.4681812,2.94715707 C4.40558398,2.97812389 4.34530926,3.01174502 4.2837074,3.04370721 C4.31378946,3.2496366 4.30383583,3.45700374 4.24510946,3.63926563 C3.85238375,4.85991155 2.97126695,5.84753211 2.48696791,7.02969069 C2.17033212,7.80297657 2.02069599,8.53722214 2.08583692,9.37056154 C2.12520903,9.87189234 2.21335389,10.1576719 2.49393545,10.5471903 C2.5744492,10.6587815 2.65175567,10.7606402 2.71490587,10.8795307 C2.64722124,10.8308686 2.58064256,10.7809899 2.51516985,10.7296734 C2.38787407,10.5781572 2.25106706,10.4343826 2.15473811,10.25942 C1.99039274,9.96070077 1.96882656,9.45262363 1.9571034,9.11961966 C1.92801671,8.27798557 2.1127117,7.50215598 2.44704283,6.73097142 C2.83689305,5.83215929 3.37151318,4.96818485 3.71192707,4.05223037 C3.80549113,3.80062491 3.84984005,3.53685391 3.84375728,3.28956169 C3.01318276,3.78591567 2.29386764,4.41432104 1.74564422,5.24268364 C1.41673229,5.73992239 1.11557991,6.26834916 0.889853864,6.82165998 C0.869504235,6.87142809 0.851919502,6.92086442 0.836436089,6.97019015 C0.802040793,7.07979059 0.778262695,7.18839567 0.758687237,7.29644778 C0.711684019,7.55535256 0.688901282,7.81105007 0.602304766,8.06962307 C0.5961114,8.05170654 0.589918035,8.03345824 0.58372467,8.01543112 C0.649639771,7.6624093 0.626857035,7.31900932 0.720974067,6.95702925 C0.736236288,6.89830287 0.754595192,6.83902352 0.776824949,6.77919119 C0.797838152,6.72289792 0.819183143,6.66671525 0.840970517,6.61075377 C1.04358204,6.0904005 1.28368553,5.58763196 1.59744584,5.12279779 C2.18614732,4.25097104 2.91685382,3.52712148 3.81389641,3.00831655 C3.71988997,2.55144527 3.41387137,2.20660754 2.85890161,2.20660754 C2.76224088,2.20660754 2.65783844,2.21711415 2.54591548,2.23923331 C2.53872675,2.24067105 2.53164862,2.2421088 2.5243493,2.24365714 C2.37216947,2.27550873 2.15252619,2.33036425 1.94150939,2.40966145 C1.80580834,2.46053552 1.67364635,2.5215844 1.56526246,2.59302929 C1.64500203,2.49459903 1.72783829,2.39871246 1.81377124,2.30559079 C1.93653258,2.23215517 2.07289721,2.17000033 2.21445985,2.11890507 C2.41917268,2.04502707 2.63472391,1.99426359 2.83634007,1.96606166 C2.96297227,1.94836633 3.08396408,1.93962927 3.19334333,1.93962927 C3.21457773,1.93962927 3.23548034,1.93996105 3.25571937,1.94062463 C3.73858066,1.95632923 4.08175945,2.34175562 4.2256446,2.79121698 C4.28392859,2.76312564 4.34011126,2.73226941 4.3997224,2.70594761 C4.78183091,2.53695722 5.16637253,2.39439922 5.55412143,2.27318622 C5.41399655,2.06404955 4.84000431,1.3083484 4.47282623,0.945925938 C4.43721438,0.910645876 4.40359325,0.879236667 4.37240523,0.85225129 C4.29753187,0.787663338 4.23725716,0.749286593 4.19987577,0.749286593 C4.19036454,0.749286593 4.18240164,0.751719701 4.17598708,0.756917704 L4.1649275,0.744309782 C4.16514869,0.74408859 4.16536988,0.743867399 4.16559107,0.743646207 C4.19257645,0.73380318 4.21967242,0.724181345 4.24687899,0.714780701 C4.30007558,0.75780247 4.3521662,0.800160664 4.40326146,0.842076475 C4.4393157,0.871716152 4.47492755,0.901024041 4.50987582,0.930110738 C5.00324372,1.34019999 5.40083564,1.71511978 5.74379324,2.21490223 C5.93103194,2.16071028 6.11871303,2.11038919 6.30816365,2.068031 C6.25375051,1.93044981 6.23450684,1.78180905 6.26890213,1.62266168 C6.3779496,1.11646467 6.63032923,0.710135677 7.05745024,0.435968672 C7.07238067,0.437959396 7.08675813,0.439950121 7.10157797,0.442051441 C6.64868814,0.828915574 6.35395031,1.47988249 6.60456041,2.01018939 C7.13663684,1.9096578 7.67888808,1.8543599 8.23794988,1.8543599 C8.26194917,1.8543599 8.28594846,1.8543599 8.30994775,1.85458109 C8.96401136,1.86022148 9.64185306,1.85590824 10.2379645,2.16247982 C10.4040794,2.24785978 10.5922028,2.32870531 10.7701515,2.42448128 C10.8943506,2.56681809 11.0116927,2.71501647 11.1217356,2.86863404 C10.3383855,2.21700355 9.21395788,2.06460253 8.22501017,2.06460253 C8.14858847,2.06460253 8.07283034,2.06548729 7.99817817,2.06714623 C7.57072538,2.07687866 7.14459973,2.1233289 6.72378269,2.20019299 C6.80020439,2.29674313 6.89653334,2.38754228 7.02117481,2.46805603 C7.40029724,2.71368932 7.84334404,2.88367507 8.27322995,3.0201503 C8.91369027,3.22386778 9.62150343,3.41674686 10.192399,3.78270839 C11.2273546,4.44584085 12.1189779,5.60532729 12.1097599,6.8737506 C12.1095773,6.89675453 12.0875687,6.91367569 12.0689886,6.91367569 C12.0563807,6.91367569 12.0453211,6.90593398 12.0437728,6.8869115 C11.9492134,5.66493843 11.0517284,4.28016833 9.89069363,3.79067129 C9.03910591,3.4316773 8.06475685,3.36985424 7.24612669,2.93786702 C6.96720406,2.7907746 6.6152882,2.56073532 6.41356145,2.26411736 C6.2301936,2.30503781 6.04848469,2.3529258 5.86821353,2.4054588 C5.96432128,2.56029293 6.05633699,2.7272926 6.14492423,2.91088164 C6.59283725,3.83800629 6.83714339,4.77530576 7.10998325,5.76193095 C7.64360802,7.69127481 8.06188136,9.84612352 7.65588415,11.8409401 C7.64559874,11.8434838 7.63542393,11.8458063 7.62513852,11.8482394" id="Fill-7" fill="#E5EAF1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-4" transform="translate(100.636364, 25.159091)">
+                    <mask id="mask-30" fill="white">
+                        <use xlink:href="#path-29"></use>
+                    </mask>
+                    <use id="Rectangle" stroke="#F3F3F3" stroke-width="0.5" fill="#FFFFFF" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" xlink:href="#path-29"></use>
+                    <g id="Artboard" stroke-width="1" fill-rule="evenodd" mask="url(#mask-30)">
+                        <g transform="translate(4.933155, 4.933155)" id="18679">
+                            <g>
+                                <path d="M12.3902695,6.25253395 C12.3902695,9.65014775 9.63599148,12.4044257 6.23859888,12.4044257 C2.84098509,12.4044257 0.0869283044,9.65014775 0.0869283044,6.25253395 C0.0869283044,2.85514136 2.84098509,0.100863376 6.23859888,0.100863376 C9.63599148,0.100863376 12.3902695,2.85514136 12.3902695,6.25253395" id="Fill-1" fill="#CE0F41"></path>
+                                <path d="M12.1915288,6.19402877 C12.1915288,9.40429327 9.52628044,12.0067232 6.23859888,12.0067232 C2.95080673,12.0067232 0.28566897,9.40429327 0.28566897,6.19402877 C0.28566897,2.98387488 2.95080673,0.381444939 6.23859888,0.381444939 C9.52628044,0.381444939 12.1915288,2.98387488 12.1915288,6.19402877" id="Fill-2" fill="#CE0F41"></path>
+                                <path d="M7.62513852,11.8482394 L7.62513852,11.8482394 C7.62447494,11.8460275 7.62436435,11.8434838 7.62469613,11.8403871 C7.91700085,9.58655516 7.2722273,7.45802825 6.75463892,5.29709678 C6.51962283,4.31600137 6.16649042,3.35027878 5.66748214,2.46916199 C5.2568399,2.59966504 4.85471355,2.75671109 4.4681812,2.94715707 C4.40558398,2.97812389 4.34530926,3.01174502 4.2837074,3.04370721 C4.31378946,3.2496366 4.30383583,3.45700374 4.24510946,3.63926563 C3.85238375,4.85991155 2.97126695,5.84753211 2.48696791,7.02969069 C2.17033212,7.80297657 2.02069599,8.53722214 2.08583692,9.37056154 C2.12520903,9.87189234 2.21335389,10.1576719 2.49393545,10.5471903 C2.5744492,10.6587815 2.65175567,10.7606402 2.71490587,10.8795307 C2.64722124,10.8308686 2.58064256,10.7809899 2.51516985,10.7296734 C2.38787407,10.5781572 2.25106706,10.4343826 2.15473811,10.25942 C1.99039274,9.96070077 1.96882656,9.45262363 1.9571034,9.11961966 C1.92801671,8.27798557 2.1127117,7.50215598 2.44704283,6.73097142 C2.83689305,5.83215929 3.37151318,4.96818485 3.71192707,4.05223037 C3.80549113,3.80062491 3.84984005,3.53685391 3.84375728,3.28956169 C3.01318276,3.78591567 2.29386764,4.41432104 1.74564422,5.24268364 C1.41673229,5.73992239 1.11557991,6.26834916 0.889853864,6.82165998 C0.869504235,6.87142809 0.851919502,6.92086442 0.836436089,6.97019015 C0.802040793,7.07979059 0.778262695,7.18839567 0.758687237,7.29644778 C0.711684019,7.55535256 0.688901282,7.81105007 0.602304766,8.06962307 C0.5961114,8.05170654 0.589918035,8.03345824 0.58372467,8.01543112 C0.649639771,7.6624093 0.626857035,7.31900932 0.720974067,6.95702925 C0.736236288,6.89830287 0.754595192,6.83902352 0.776824949,6.77919119 C0.797838152,6.72289792 0.819183143,6.66671525 0.840970517,6.61075377 C1.04358204,6.0904005 1.28368553,5.58763196 1.59744584,5.12279779 C2.18614732,4.25097104 2.91685382,3.52712148 3.81389641,3.00831655 C3.71988997,2.55144527 3.41387137,2.20660754 2.85890161,2.20660754 C2.76224088,2.20660754 2.65783844,2.21711415 2.54591548,2.23923331 C2.53872675,2.24067105 2.53164862,2.2421088 2.5243493,2.24365714 C2.37216947,2.27550873 2.15252619,2.33036425 1.94150939,2.40966145 C1.80580834,2.46053552 1.67364635,2.5215844 1.56526246,2.59302929 C1.64500203,2.49459903 1.72783829,2.39871246 1.81377124,2.30559079 C1.93653258,2.23215517 2.07289721,2.17000033 2.21445985,2.11890507 C2.41917268,2.04502707 2.63472391,1.99426359 2.83634007,1.96606166 C2.96297227,1.94836633 3.08396408,1.93962927 3.19334333,1.93962927 C3.21457773,1.93962927 3.23548034,1.93996105 3.25571937,1.94062463 C3.73858066,1.95632923 4.08175945,2.34175562 4.2256446,2.79121698 C4.28392859,2.76312564 4.34011126,2.73226941 4.3997224,2.70594761 C4.78183091,2.53695722 5.16637253,2.39439922 5.55412143,2.27318622 C5.41399655,2.06404955 4.84000431,1.3083484 4.47282623,0.945925938 C4.43721438,0.910645876 4.40359325,0.879236667 4.37240523,0.85225129 C4.29753187,0.787663338 4.23725716,0.749286593 4.19987577,0.749286593 C4.19036454,0.749286593 4.18240164,0.751719701 4.17598708,0.756917704 L4.1649275,0.744309782 C4.16514869,0.74408859 4.16536988,0.743867399 4.16559107,0.743646207 C4.19257645,0.73380318 4.21967242,0.724181345 4.24687899,0.714780701 C4.30007558,0.75780247 4.3521662,0.800160664 4.40326146,0.842076475 C4.4393157,0.871716152 4.47492755,0.901024041 4.50987582,0.930110738 C5.00324372,1.34019999 5.40083564,1.71511978 5.74379324,2.21490223 C5.93103194,2.16071028 6.11871303,2.11038919 6.30816365,2.068031 C6.25375051,1.93044981 6.23450684,1.78180905 6.26890213,1.62266168 C6.3779496,1.11646467 6.63032923,0.710135677 7.05745024,0.435968672 C7.07238067,0.437959396 7.08675813,0.439950121 7.10157797,0.442051441 C6.64868814,0.828915574 6.35395031,1.47988249 6.60456041,2.01018939 C7.13663684,1.9096578 7.67888808,1.8543599 8.23794988,1.8543599 C8.26194917,1.8543599 8.28594846,1.8543599 8.30994775,1.85458109 C8.96401136,1.86022148 9.64185306,1.85590824 10.2379645,2.16247982 C10.4040794,2.24785978 10.5922028,2.32870531 10.7701515,2.42448128 C10.8943506,2.56681809 11.0116927,2.71501647 11.1217356,2.86863404 C10.3383855,2.21700355 9.21395788,2.06460253 8.22501017,2.06460253 C8.14858847,2.06460253 8.07283034,2.06548729 7.99817817,2.06714623 C7.57072538,2.07687866 7.14459973,2.1233289 6.72378269,2.20019299 C6.80020439,2.29674313 6.89653334,2.38754228 7.02117481,2.46805603 C7.40029724,2.71368932 7.84334404,2.88367507 8.27322995,3.0201503 C8.91369027,3.22386778 9.62150343,3.41674686 10.192399,3.78270839 C11.2273546,4.44584085 12.1189779,5.60532729 12.1097599,6.8737506 C12.1095773,6.89675453 12.0875687,6.91367569 12.0689886,6.91367569 C12.0563807,6.91367569 12.0453211,6.90593398 12.0437728,6.8869115 C11.9492134,5.66493843 11.0517284,4.28016833 9.89069363,3.79067129 C9.03910591,3.4316773 8.06475685,3.36985424 7.24612669,2.93786702 C6.96720406,2.7907746 6.6152882,2.56073532 6.41356145,2.26411736 C6.2301936,2.30503781 6.04848469,2.3529258 5.86821353,2.4054588 C5.96432128,2.56029293 6.05633699,2.7272926 6.14492423,2.91088164 C6.59283725,3.83800629 6.83714339,4.77530576 7.10998325,5.76193095 C7.64360802,7.69127481 8.06188136,9.84612352 7.65588415,11.8409401 C7.64559874,11.8434838 7.63542393,11.8458063 7.62513852,11.8482394" id="Fill-7" fill="#E5EAF1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(0.000000, 50.318182)">
+                    <mask id="mask-32" fill="white">
+                        <use xlink:href="#path-31"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-31"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-32)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">5</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-32)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-34)" xlink:href="#text-33"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-33"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(25.159091, 50.318182)">
+                    <mask id="mask-36" fill="white">
+                        <use xlink:href="#path-35"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-35"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-36)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">20</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-36)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-38)" xlink:href="#text-37"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-37"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(50.318182, 50.318182)">
+                    <mask id="mask-40" fill="white">
+                        <use xlink:href="#path-39"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-39"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-40)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">7</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-40)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-42)" xlink:href="#text-41"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-41"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(75.477273, 50.318182)">
+                    <mask id="mask-44" fill="white">
+                        <use xlink:href="#path-43"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-43"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-44)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">24</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-44)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-46)" xlink:href="#text-45"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-45"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(100.636364, 50.318182)">
+                    <mask id="mask-48" fill="white">
+                        <use xlink:href="#path-47"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-47"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-48)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">24</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-48)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-50)" xlink:href="#text-49"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-49"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(0.000000, 75.477273)">
+                    <mask id="mask-52" fill="white">
+                        <use xlink:href="#path-51"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-51"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-52)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">22</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-52)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-54)" xlink:href="#text-53"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-53"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(25.159091, 75.477273)">
+                    <mask id="mask-56" fill="white">
+                        <use xlink:href="#path-55"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-55"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-56)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">9</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-56)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-58)" xlink:href="#text-57"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-57"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(50.318182, 75.477273)">
+                    <mask id="mask-60" fill="white">
+                        <use xlink:href="#path-59"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-59"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-60)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">3</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-60)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-62)" xlink:href="#text-61"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-61"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(75.477273, 75.477273)">
+                    <mask id="mask-64" fill="white">
+                        <use xlink:href="#path-63"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-63"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-64)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">5</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-64)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-66)" xlink:href="#text-65"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-65"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(100.636364, 75.477273)">
+                    <mask id="mask-68" fill="white">
+                        <use xlink:href="#path-67"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-67"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-68)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">10</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-68)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-70)" xlink:href="#text-69"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-69"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(0.000000, 100.636364)">
+                    <mask id="mask-72" fill="white">
+                        <use xlink:href="#path-71"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-71"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-72)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">8</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-72)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-74)" xlink:href="#text-73"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-73"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(25.159091, 100.636364)">
+                    <mask id="mask-76" fill="white">
+                        <use xlink:href="#path-75"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-75"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-76)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">13</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-76)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-78)" xlink:href="#text-77"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-77"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(50.318182, 100.636364)">
+                    <mask id="mask-80" fill="white">
+                        <use xlink:href="#path-79"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-79"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-80)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">5</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-80)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-82)" xlink:href="#text-81"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-81"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(75.477273, 100.636364)">
+                    <mask id="mask-84" fill="white">
+                        <use xlink:href="#path-83"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-83"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-84)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.70781818" y="21.6785714">9</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-84)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-86)" xlink:href="#text-85"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-85"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="player-card-/-2" transform="translate(100.636364, 100.636364)">
+                    <mask id="mask-88" fill="white">
+                        <use xlink:href="#path-87"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#CE0F41" fill-rule="evenodd" xlink:href="#path-87"></use>
+                    <text id="0" opacity="0.24" mask="url(#mask-88)" font-family="Futura-Bold, Futura" font-size="16.1" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="0.233818182" y="21.6785714">19</tspan>
+                    </text>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-88)" fill-opacity="1">
+                        <g transform="translate(0.000000, 9.784091)" id="First-Points">
+                            <g>
+                                <use fill="#FFFFFF" filter="url(#filter-90)" xlink:href="#text-89"></use>
+                                <use fill="#FFFFFF" xlink:href="#text-89"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
