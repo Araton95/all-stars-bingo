@@ -110,6 +110,19 @@
             display: none;
           }
 
+          .name {
+            display: block;
+            font-size: 8px;
+            position: absolute;
+            bottom: 5px;
+            max-width: 70%;
+            text-align: center;
+            z-index: 10;
+            line-height: 1em;
+            color: white;
+            text-shadow: 0px 0px 3px black;
+          }
+
           .playerImg {
             display: block;
           }
@@ -159,11 +172,15 @@
           text-transform: uppercase;
         }
 
+        .name {
+          display: none;
+        }
+
         .playerImg {
           display: none;
           width: 100%;
           position: absolute;
-          bottom: -4px;
+          bottom: -0;
           border-radius: 8px;
         }
       }
@@ -365,6 +382,10 @@
     .tile-detail {
       display: flex;
       padding: 15px;
+
+      .name {
+        display: block;
+      }
 
       .playerImg {
         height: 128px;
