@@ -28,7 +28,7 @@ class Cards extends React.Component {
 
     this.state = {
       status: 1,
-      gameTime: '12:00',
+      gameTime: '',
       slideOpen: false,
       helpModalOpen: false,
       finalModalOpen: false,
@@ -41,10 +41,14 @@ class Cards extends React.Component {
   }
 
   componentDidMount() {
-    this.bingoCards = this.generateRandomBingo()
-    this.gameClock = this.dateToUnix('2020-01-16T03:10:44+00:00')
-    this.quarterTime = 12 * 60 // 12 minutes
     this.allEvents = this.generateRandomEvents()
+    this.bingoCards = this.generateRandomBingo()
+    console.log(this.allEvents)
+    this.gameClock = this.dateToUnix('2020-01-16T03:10:44+00:00')
+
+    const latestEvent = Math.max.apply(Math, realEvents.map(o => o.clock))
+    this.quarterTime = latestEvent - this.gameClock
+    this.playStartCountdown = this.secondsToCountdownFormat(this.quarterTime )
     this.setState({ cards: this.allEvents })
     setTimeout(() => this.setState({ status: 2 }), 3000)
     setTimeout(() => { this.setState({ status: 3 }); this.bingoStart(); }, 5000)
@@ -111,16 +115,9 @@ class Cards extends React.Component {
     this.clr = setInterval(() => {
       this.gameClock++
 
-      let minutes = parseInt(this.quarterTime / 60, 10)
-      let seconds = parseInt(this.quarterTime % 60, 10)
-
-      minutes = minutes < 10 ? "0" + minutes : minutes
-      seconds = seconds < 10 ? "0" + seconds : seconds
-
-      const countdownTime = minutes + ":" + seconds;
-
+      const countdownTime = this.secondsToCountdownFormat(this.quarterTime)
       if (--this.quarterTime < 0) {
-        // finish
+        clearInterval(this.clr)
       }
 
       this.setState({ gameTime: countdownTime })
@@ -140,6 +137,16 @@ class Cards extends React.Component {
         }
       })
     }, 1000)
+  }
+
+  secondsToCountdownFormat = (timestamp) => {
+    let minutes = parseInt(timestamp / 60, 10)
+    let seconds = parseInt(timestamp % 60, 10)
+
+    minutes = minutes < 10 ? "0" + minutes : minutes
+    seconds = seconds < 10 ? "0" + seconds : seconds
+
+    return minutes + ":" + seconds;
   }
 
   generateRandomEvents = () => {
@@ -332,7 +339,7 @@ class Cards extends React.Component {
                         bingoStatus === 'started' && (
                           <div className="event">
                             <div className="info">
-                              <div className="time">12:00</div>
+                              <div className="time">{this.playStartCountdown}</div>
                               <div>
                                 <div className="event-name bold">Match started</div>
                               </div>
