@@ -45,7 +45,6 @@ class Cards extends React.Component {
   componentDidMount() {
     this.allEvents = this.generateRandomEvents()
     this.bingoCards = this.generateRandomBingo()
-    console.log(this.allEvents)
     this.gameClock = this.dateToUnix('2020-01-16T03:10:44+00:00')
 
     const latestEvent = Math.max.apply(Math, realEvents.map(o => o.clock))
