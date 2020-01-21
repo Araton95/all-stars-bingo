@@ -10,7 +10,7 @@ class MarkPanel extends React.Component {
     return (
       <div className="mark-panel">
         <div className="mark-panel-content">
-          <img className="teamImg" src={TeamLebron} alt=""/> 
+          <img className="teamImg" src={TeamLebron} alt=""/>
           {
             this.props.type === 'start' && (
               <div className="quarter-part">
@@ -60,7 +60,7 @@ class MarkPanel extends React.Component {
                     <div className="score bold">--</div>
                   </div>
                 </div>
-                <div className="text bold">9:59</div>
+                <div className="text bold">{this.props.time}</div>
               </div>
             )
           }
