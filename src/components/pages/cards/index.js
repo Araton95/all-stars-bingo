@@ -29,168 +29,168 @@ const allEvents = [
     time: 8,
     name: 'D.Martin',
   },
-  { 
+  {
     cardId: 1,
     cardNumber: 88,
     event: 2,
     time: 2,
     name: 'D.Lynch',
   },
-  { 
+  {
     cardId: 2,
     cardNumber: 35,
     event: 1,
     time: 11,
     name: 'G.Long',
   },
-  { 
+  {
     cardId: 3,
     cardNumber: 40,
     event: 1,
     time: 55,
     name: 'M.Jack',
   },
-  { 
+  {
     cardId: 4,
     cardNumber: 88,
     event: 2,
     time: 30,
     name: 'K.Sam',
   },
-  { 
+  {
     cardId: 5,
     cardNumber: 32,
     event: 3,
     time: 45,
     name: 'C.Ronaldo',
   },
-  { 
+  {
     cardId: 6,
     cardNumber: 5,
     event: 3,
     time: 50,
     name: 'L.Messi',
   },
-  { 
+  {
     cardId: 7,
     cardNumber: 8,
     event: 2,
     time: 35,
     name: 'W.Koala',
   },
-  { 
+  {
     cardId: 8,
     cardNumber: 13,
     event: 4,
     time: 25,
     name: 'A.Martin',
   },
-  { 
+  {
     cardId: 9,
     cardNumber: 3,
     event: 1,
     time: 97,
     name: 'D.Alex',
   },
-  { 
+  {
     cardId: 10,
     cardNumber: 5,
     event: 2,
     time: 20,
     name: 'J.Sergey',
   },
-  { 
+  {
     cardId: 11,
     cardNumber: 20,
     event: 4,
     time: 85,
     name: 'R.Gong',
   },
-  { 
+  {
     cardId: 12,
     cardNumber: 7,
     event: 4,
     time: 90,
     name: 'L.Hmmm',
   },
-  { 
+  {
     cardId: 13,
     cardNumber: 24,
     event: 2,
     time: 80,
     name: 'D.Martin',
   },
-  { 
+  {
     cardId: 14,
     cardNumber: 24,
     event: 1,
     time: 65,
     name: 'H.Ko',
   },
-  { 
+  {
     cardId: 15,
     cardNumber: 22,
     event: 3,
     time: 70,
     name: 'R.Ali',
   },
-  { 
+  {
     cardId: 16,
     cardNumber: 9,
     event: 4,
     time: 75,
     name: 'S.Tomy',
   },
-  { 
+  {
     cardId: 17,
     cardNumber: 3,
     event: 3,
     time: 51,
     name: 'W.Philips',
   },
-  { 
+  {
     cardId: 18,
     cardNumber: 5,
     event: 1,
     time: 68,
     name: 'A.Windsor',
   },
-  { 
+  {
     cardId: 19,
     cardNumber: 10,
     event: 3,
     time: 73,
     name: 'S.Feaster',
   },
-  { 
+  {
     cardId: 20,
     cardNumber: 8,
     event: 3,
     time: 15,
     name: 'J.Inglis',
   },
-  { 
+  {
     cardId: 21,
     cardNumber: 13,
     event: 1,
     time: 83,
     name: 'D.Martin',
   },
-  { 
+  {
     cardId: 22,
     cardNumber: 5,
     event: 1,
     time: 115,
     name: 'T.Lynch',
   },
-  { 
+  {
     cardId: 23,
     cardNumber: 9,
     event: 3,
     time: 150,
     name: 'D.Short',
   },
-  { 
+  {
     cardId: 24,
     cardNumber: 19,
     event: 4,
@@ -199,28 +199,61 @@ const allEvents = [
   },
 ]
 
-const bingoCards = [
-  {
-    cardId: 3,
-    letter: 'B'
-  }, 
-  {
-    cardId: 8,
-    letter: 'I'
-  }, 
-  {
-    cardId: 13,
-    letter: 'N'
-  }, 
-  {
-    cardId: 18,
-    letter: 'G'
-  }, 
-  {
-    cardId: 23,
-    letter: 'O'
-  },
-]
+const realEvents = [{"order":0,"type":"assist","player_name":"Nemanja Bjelica","number":"88","clock":"22:10:57 15.01.2020"},{"order":1,"type":"jump shot","player_name":"Harrison Barnes","number":"40","clock":"22:10:57 15.01.2020"},{"order":2,"type":"turnover","player_name":"Buddy Hield","number":"24","clock":"22:11:34 15.01.2020"},{"order":3,"type":"jump sh ot","player_name":"De'Aaron Fox","number":"5","clock":"22:11:54 15.01.2020"},{"order":4,"type":"jump shot","player_name":"Nemanja Bjelica","number":"88","clock":"22:12:24 15.01. 2020"},{"order":5,"type":"jump shot","player_name":"Buddy Hield","number":"24","clock":"22:12:41 15.01.2020"},{"order":6,"type":"rebound","player_name":"Nemanja Bjelica","number ":"88","clock":"22:12:57 15.01.2020"},{"order":7,"type":"jump shot","player_name":"Buddy Hield","number":"24","clock":"22:13:13 15.01.2020"},{"order":8,"type":"steal","player_na me":"Harrison Barnes","number":"40","clock":"22:13:45 15.01.2020"},{"order":9,"type":"assist","player_name":"De'Aaron Fox","number":"5","clock":"22:13:52 15.01.2020"},{"order":10,"type":"jump shot","player_name":"Buddy Hield","number":"24","clock":"22:13:52 15.01.2020"},{"order":11,"type":"rebound","player_name":"Nemanja Bjelica","number":"88","clock":"22:14:07 15.01.2020"},{"order":12,"type":"assist","player_name":"De'Aaron Fox","number":"5","clock":"22:14:14 15.01.2020"},{"order":13,"type":"dunk","player_name":"Marvin Bagle y III","number":"35","clock":"22:14:14 15.01.2020"},{"order":14,"type":"turnover","player_name":"Buddy Hield","number":"24","clock":"22:14:44 15.01.2020"},{"order":15,"type":"ju mp shot","player_name":"Harrison Barnes","number":"40","clock":"22:15:06 15.01.2020"},{"order":16,"type":"layup","player_name":"De'Aaron Fox","number":"5","clock":"22:15:31 15.0 1.2020"},{"order":17,"type":"rebound","player_name":"De'Aaron Fox","number":"5","clock":"22:15:56 15.01.2020"},{"order":18,"type":"jump shot","player_name":"Buddy Hield","number ":"24","clock":"22:16:31 15.01.2020"},{"order":19,"type":"rebound","player_name":"Nemanja Bjelica","number":"88","clock":"22:16:35 15.01.2020"},{"order":20,"type":"layup","playe r_name":"Nemanja Bjelica","number":"88","clock":"22:16:35 15.01.2020"},{"order":21,"type":"rebound","player_name":"Nemanja Bjelica","number":"88","clock":"22:16:36 15.01.2020"},{"order":22,"type":"layup","player_name":"Nemanja Bjelica","number":"88","clock":"22:16:36 15.01.2020"},{"order":23,"type":"rebound","player_name":"De'Aaron Fox","number":"5","clock":"22:16:37 15.01.2020"},{"order":24,"type":"assist","player_name":"De'Aaron Fox","number":"5","clock":"22:16:40 15.01.2020"},{"order":25,"type":"layup","player_name":"Harri son Barnes","number":"40","clock":"22:16:40 15.01.2020"},{"order":26,"type":"dunk","player_name":"Marvin Bagley III","number":"35","clock":"22:20:39 15.01.2020"},{"order":27,"ty pe":"steal","player_name":"De'Aaron Fox","number":"5","clock":"22:20:54 15.01.2020"},{"order":28,"type":"assist","player_name":"Nemanja Bjelica","number":"88","clock":"22:21:00 15.01.2020"},{"order":29,"type":"layup","player_name":"Buddy Hield","number":"24","clock":"22:21:00 15.01.2020"},{"order":30,"type":"fouldrawn","player_name":"De'Aaron Fox","number":"5","clock":"22:21:27 15.01.2020"},{"order":31,"type":"freethrow","player_name":"De'Aaron Fox","number":"5","clock":"22:21:54 15.01.2020"},{"order":32,"type":"freethrow","player_name":"De'Aaron Fox","number":"5","clock":"22:21:54 15.01.2020"},{"order":33,"type":"jump shot","player_name":"Nemanja Bjelica","number":"88","clock":"22:22:43 15.01.2020"},{"order":34,"type":"layup","player_name":"Buddy Hield","number":"24","clock":"22:23:01 15.01.2020"},{"order":35,"type":"personalfoul","player_name":"Harry Giles III","number":"20","clock":"22:23:25 15.01.2020"},{"order":36,"type":"personalfoul","player_name":"De'Aaron Fox","number":"5","clock":"22:23:50 15.01.2020"},{"order":37,"type":"jump shot","player_name":"Buddy Hield","number":"24","clock":"22:24:21 15.01.2020"},{"order":38,"type":"jump shot","player_name":"De'Aaron Fox","number":"5","clock":"22:24:56 15.01.2020"},{"order":39,"type":"rebound","player_name":"Harry Giles III","number":"20","clock":"22:25:13 15.01.2020"},{"order":40,"type":"layup","player_name":"Buddy Hield","number":"24","clock":"22:25:18 15.01.2020"},{"order":41,"type":"steal","player_name":"Nemanja Bjelica","number":"88","clock":"22:25:27 15.01.2020"},{"order":42,"type":"fouldrawn","player_name":"De'Aaron Fox","number":"5","clock":"22:25:33 15.01.2020"},{"order":43,"type":"jump shot","player_name":"Trevor Ariza","number":"0","clock":"22:28:59 15.01.2020"},{"order":44,"type":"rebound","player_name":"Nemanja Bjelica","number":"88","clock":"22:29:04 15.01.2020"},{"order":45,"type":"layup","player_name":"Nemanja Bjelica","number":"88","clock":"22:29:04 15.01.2020"},{"order":46,"type":"jump shot","player_name":"Cory Joseph","number":"9","clock":"22:29:39 15.01.2020"},{"order":47,"type":"jump shot","player_name":"Cory Joseph","number":"9","clock":"22:30:26 15.01.2020"},{"order":48,"type":"rebound","player_name":"Cory Joseph","number":"9","clock":"22:30:28 15.01.2020"},{"order":49,"type":"jump shot","player_name":"Cory Joseph","number":"9","clock":"22:30:29 15.01.2020"},{"order":50,"type":"layup","player_name":"Harrison Barnes","number":"40","clock":"22:30:58 15.01.2020"},{"order":51,"type":"assist","player_name":"Cory Joseph","number":"9","clock":"22:30:58 15.01.2020"},{"order":52,"type":"fouldrawn","player_name":"Harrison Barnes","number":"40","clock":"22:31:01 15.01.2020"},{"order":53,"type":"freethrow","player_name":"Harrison Barnes","number":"40","clock":"22:31:27 15.01.2020"},{"order":54,"type":"assist","player_name":"Buddy Hield","number":"24","clock":"22:32:00 15.01.2020"},{"order":55,"type":"jump shot","player_name":"Harry Giles III","number":"20","clock":"22:32:00 15.01.2020"},{"order":56,"type":"rebound","player_name":"Harry Giles III","number":"20","clock":"22:32:50 15.01.2020"},{"order":57,"type":"jump shot","player_name":"Buddy Hield","number":"24","clock":"22:32:55 15.01.2020"}]
+
+const generateRandomNumber = range => {
+  return Math.floor(Math.random() * range) + 1
+}
+
+const generateBingo = () => {
+  const generatedCard = []
+  let startPoint
+  const rawType = generateRandomNumber(3)
+
+  switch (rawType) {
+    // horisontal
+    case 1:
+      startPoint = generateRandomNumber(5)
+      for (let index = 0; index < 5; index++) {
+        generatedCard.push({
+          cardId: index === 0 ? startPoint : startPoint + (5 * index),
+          letter: 'BINGO'[index]
+        })
+      }
+
+      break;
+    // vertical
+    case 2:
+      startPoint = generateRandomNumber(4)
+      startPoint = startPoint * 5
+      for (let index = 0; index < 5; index++) {
+        generatedCard.push({
+          cardId: index === 0 ? startPoint : startPoint + index,
+          letter: 'BINGO'[index]
+        })
+      }
+
+      break;
+    // x type
+    case 3:
+      startPoint = generateRandomNumber(2) === 1 ? 0 : 4
+      const step = startPoint === 0 ? 6 : 4
+      for (let index = 0; index < 5; index++) {
+        generatedCard.push({
+          cardId: index === 0 ? startPoint : startPoint + (index * step),
+          letter: 'BINGO'[index]
+        })
+      }
+
+      break;
+    default:
+      break;
+  }
+
+  return generatedCard
+}
+
+const bingoCards = generateBingo()
 
 class Cards extends React.Component {
   constructor(props) {
@@ -268,14 +301,14 @@ class Cards extends React.Component {
           }
         }
       })
-    }, 1000) 
+    }, 1000)
   }
 
   tapTile = (index) => {
     let { occuredEvents } = this.state
     let cards = clone(this.state.cards)
     let bingoEvents = clone(this.state.bingoEvents)
-    
+
     if (occuredEvents.filter(e => e.cardId === index).length !== 0) {
       cards[index].tapped = true
       bingoEvents.forEach(e => { if(e.cardId === index) e.checked = true })
@@ -292,7 +325,7 @@ class Cards extends React.Component {
   }
 
   render() {
-    const { 
+    const {
       status,
       slideOpen,
       bingoStatus,
@@ -375,7 +408,7 @@ class Cards extends React.Component {
                                   {bingoEvent[0].letter}
                                 </div>
                                 :
-                                <div 
+                                <div
                                   className={`card ${c.tapped ? (isBingoCard ? 'isBingo' : 'tapped') : ''} ${lastOccuredEvent !== null && lastOccuredEvent.cardId === i && !c.tapped ? 'highlighted': ''}`}
                                   onClick={bingoStatus !== 'done' ? () => this.tapTile(i) : null}
                                 >
@@ -410,13 +443,13 @@ class Cards extends React.Component {
                                   <div className="event-name bold">{eventNames[e.event-1]}</div>
                                 </div>
                               </div>
-                              { 
+                              {
                                 isBingoEvent && (
-                                  !isBingoChecked ? 
+                                  !isBingoChecked ?
                                     <img className="ball-icon" src={IconBingoBall} alt="" />
                                     :
                                     <img className="ball-icon" src={IconBingoCheckedBall} alt="" />
-                                ) 
+                                )
                               }
                             </div>
                           )
@@ -466,10 +499,10 @@ class Cards extends React.Component {
         </div>
 
         <div className="footer">
-          { 
+          {
             status === 1
               ? <img src={VHSLogo} alt="" />
-              : Object.keys(tileDetail).length ===0 && <img src={IconHelp} alt="" onClick={() => this.setState({ helpModalOpen: true })} />    
+              : Object.keys(tileDetail).length ===0 && <img src={IconHelp} alt="" onClick={() => this.setState({ helpModalOpen: true })} />
           }
           <div className="indicater" />
         </div>
