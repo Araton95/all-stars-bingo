@@ -42,7 +42,7 @@ class Cards extends React.Component {
 
   componentDidMount() {
     this.bingoCards = this.generateRandomBingo()
-    this.counter = this.dateToUnix('2020-01-16T03:10:44+00:00')
+    this.gameClock = this.dateToUnix('2020-01-16T03:10:44+00:00')
     this.quarterTime = 12 * 60 // 12 minutes
     this.allEvents = this.generateRandomEvents()
     this.setState({ cards: this.allEvents })
@@ -109,7 +109,6 @@ class Cards extends React.Component {
   bingoStart = () => {
     this.setState({ bingoStatus: 'started' })
     this.clr = setInterval(() => {
-      this.counter++
       this.gameClock++
 
       let minutes = parseInt(this.quarterTime / 60, 10)
@@ -127,7 +126,7 @@ class Cards extends React.Component {
       this.setState({ gameTime: countdownTime })
 
       this.allEvents.forEach(e => {
-        if (e.clock === this.counter) {
+        if (e.clock === this.gameClock) {
           let occuredEvents = clone(this.state.occuredEvents)
           e.gameClock = countdownTime
           occuredEvents.push(e)
