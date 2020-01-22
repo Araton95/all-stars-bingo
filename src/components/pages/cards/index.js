@@ -62,12 +62,12 @@ class Cards extends React.Component {
   generateRandomBingo = () => {
     let startPoint
     const generatedCard = []
-    const rawType = this.generateRandomNumber(3)
+    const rawType = this.generateRandomNumber(2)
 
     switch (rawType) {
       // horisontal
-      case 1:
-        startPoint = this.generateRandomNumber(5)
+      case 0:
+        startPoint = this.generateRandomNumber(4)
         for (let index = 0; index < 5; index++) {
           generatedCard.push({
             cardId: index === 0 ? startPoint : startPoint + (5 * index),
@@ -77,7 +77,7 @@ class Cards extends React.Component {
 
         break;
       // vertical
-      case 2:
+      case 1:
         startPoint = this.generateRandomNumber(4)
         startPoint = startPoint * 5
         for (let index = 0; index < 5; index++) {
@@ -89,8 +89,8 @@ class Cards extends React.Component {
 
         break;
       // x type
-      case 3:
-        startPoint = this.generateRandomNumber(2) === 1 ? 0 : 4
+      case 2:
+        startPoint = this.generateRandomNumber(1) === 0 ? 0 : 4
         const step = startPoint === 0 ? 6 : 4
         for (let index = 0; index < 5; index++) {
           generatedCard.push({
