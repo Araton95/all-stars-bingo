@@ -47,6 +47,9 @@ class Cards extends React.Component {
     this.bingoCards = this.generateRandomBingo()
     this.gameClock = this.dateToUnix('2020-01-16T03:10:44+00:00')
 
+    console.log('Selected events', this.allEvents)
+    console.log('Generated bingo', this.bingoCards)
+
     const latestEvent = Math.max.apply(Math, realEvents.map(o => o.clock))
     this.quarterTime = latestEvent - this.gameClock
     this.playStartCountdown = this.secondsToCountdownFormat(this.quarterTime )
